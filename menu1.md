@@ -23,10 +23,10 @@ tags = ["syntax", "code"]
 ## The frequency of the world
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
 
-\note{Use the slider to intsdsdft with g raph below.}
+\note{Use the slider to change the graph below.}
 
 ~~~
-<iframe src="http://198.211.97.90:8000/" width = "870" height = "376" style="border:none;"></iframe>
+<iframe src="https://mdpetters.github.io/apps/rxfo/" width = "970" height = "780" style="border:none;"></iframe>
 ~~~
 
 **Figure X.** This is an animated graph.
